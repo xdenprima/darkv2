@@ -9,3 +9,6 @@ $ pip2 install mechanize
 $ git clone http://github.com/xdenprima/darkv2
 $ cd darkv2
 $ python2 dark.py
+
+Username : dark
+Password : fb
